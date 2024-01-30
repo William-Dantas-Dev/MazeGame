@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Projects/MazeGame/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Maps/NewWorld.umap",
+				"D:/Unreal Engine Projects/MazeGame/Content/Blueprints/BP_Maze.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Blueprints/CustomMacroLib.uasset"
+			]
+		}
+	]
+}
