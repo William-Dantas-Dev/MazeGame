@@ -8,7 +8,27 @@
 				"D:/Unreal Engine Projects/MazeGame/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/Unreal Engine Projects/MazeGame/Content/Maps/NewWorld.umap",
 				"D:/Unreal Engine Projects/MazeGame/Content/Blueprints/BP_Maze.uasset",
-				"D:/Unreal Engine Projects/MazeGame/Content/Blueprints/CustomMacroLib.uasset"
+				"D:/Unreal Engine Projects/MazeGame/Content/Blueprints/CustomMacroLib.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Meshs/GroundTile.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Meshs/GroundTile_Material.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AS/128CVA37OSUXHINMB20OND.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WA/JOAFYA4XZGDRKJMHRNNAXS.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F2/4ZQ2269HFI93VM9ONA3FWR.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Meshs/NewBlueprint.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Meshs/GroundTileTest.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AG/OFYQ3AW6MH8BJ9G8Q44OPQ.uasset",
+				"D:/Unreal Engine Projects/MazeGame/Content/Meshs/StaticMesh.uasset"
 			]
 		}
 	]
